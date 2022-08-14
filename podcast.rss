@@ -1,0 +1,56 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<link type="text/css" id="dark-mode" rel="stylesheet" href=""/>
+<channel>
+<title>Berkeley & Haley Show</title>
+<link>https://www.spreaker.com/show/berkeley-n-haleys-incredible-podcast</link>
+<description>
+<![CDATA[ haley and berkeley sat and recorded this amazing podcast, they are incredible and yeah.<br />the internet is so amazing! ]]>
+</description>
+<atom:link href="https://www.spreaker.com/show/5642500/episodes/feed" rel="self" type="application/rss+xml"/>
+<language>en</language>
+<category>Music Interviews</category>
+<copyright>Copyright Berkeley Morrison</copyright>
+<image>
+<url>https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/52e24cae741201e8bd7797b0021e0532.jpg</url>
+<title>Berkeley & Haley Show</title>
+<link>https://www.spreaker.com/show/berkeley-n-haleys-incredible-podcast</link>
+</image>
+<lastBuildDate>Sat, 13 Aug 2022 23:24:02 +0000</lastBuildDate>
+<itunes:author>Berkeley Morrison</itunes:author>
+<itunes:owner>
+<itunes:name>Berkeley Morrison</itunes:name>
+<itunes:email>berkaytumal@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/52e24cae741201e8bd7797b0021e0532.jpg"/>
+<itunes:subtitle>haley and berkeley sat and recorded this amazing podcast, they are incredible and yeah. the internet is so amazing!</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ haley and berkeley sat and recorded this amazing podcast, they are incredible and yeah.<br />the internet is so amazing! ]]>
+</itunes:summary>
+<itunes:category text="Music">
+<itunes:category text="Music Interviews"/>
+</itunes:category>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<item>
+<title>does god exist?</title>
+<link>https://www.spreaker.com/user/16693461/does-god-exist</link>
+<description>
+<![CDATA[ does god exist? only god knows ]]>
+</description>
+<guid isPermaLink="false">https://api.spreaker.com/episode/50907765</guid>
+<pubDate>Sat, 13 Aug 2022 21:23:36 +0000</pubDate>
+<enclosure url="https://api.spreaker.com/download/episode/50907765/podcast_does_god_exist.mp3" length="1352045" type="audio/mpeg"/>
+<itunes:author>Berkeley Morrison</itunes:author>
+<itunes:subtitle>does god exist? only god knows</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ does god exist? only god knows ]]>
+</itunes:summary>
+<itunes:duration>85</itunes:duration>
+<itunes:keywords>existence,future,god,infinity,internet,robot</itunes:keywords>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/52e24cae741201e8bd7797b0021e0532.jpg"/>
+<itunes:season>1</itunes:season>
+<itunes:episodeType>trailer</itunes:episodeType>
+</item>
+</channel>
+</rss>
